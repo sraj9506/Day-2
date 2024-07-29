@@ -1,0 +1,6 @@
+[submodule "website-project"]
+	path = website-project
+	url = https://github.com/sraj9506/website-project.git
+[submodule "blogging-platform"]
+	path = blogging-platform
+	url = https://github.com/sraj9506/blogging-platform.git
